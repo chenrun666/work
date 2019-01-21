@@ -1,0 +1,108 @@
+01/18/2019 13:13:20 PM - INFO - 1.请求任务：
+01/18/2019 13:13:20 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:13:46 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:13:46 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:13:46 PM - INFO - 开始回填
+01/18/2019 13:14:47 PM - INFO - 1.请求任务：
+01/18/2019 13:14:47 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:15:10 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:15:10 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:15:10 PM - INFO - 开始回填
+01/18/2019 13:16:20 PM - INFO - 1.请求任务：
+01/18/2019 13:16:20 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:16:46 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09501393', 'bookingNumber': 'ILC4MF'}}
+01/18/2019 13:16:46 PM - INFO - 开始回填
+01/18/2019 13:17:16 PM - INFO - 1.请求任务：
+01/18/2019 13:17:16 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:17:43 PM - INFO - 1.请求任务：
+01/18/2019 13:17:43 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:18:05 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:18:05 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:18:05 PM - INFO - 开始回填
+01/18/2019 13:20:44 PM - INFO - 1.请求任务：
+01/18/2019 13:20:44 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:23:35 PM - INFO - 1.请求任务：
+01/18/2019 13:23:35 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:24:00 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:24:00 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:24:00 PM - INFO - 开始回填
+01/18/2019 13:24:22 PM - INFO - 1.请求任务：
+01/18/2019 13:24:22 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:24:45 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:24:45 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:24:45 PM - INFO - 开始回填
+01/18/2019 13:25:16 PM - INFO - 1.请求任务：
+01/18/2019 13:25:16 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:26:35 PM - INFO - 1.请求任务：
+01/18/2019 13:26:35 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:27:02 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:27:02 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:27:02 PM - INFO - 开始回填
+01/18/2019 13:32:51 PM - INFO - 1.请求任务：
+01/18/2019 13:32:51 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:33:15 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09501863', 'bookingNumber': 'ILC4MF'}}
+01/18/2019 13:33:15 PM - INFO - 开始回填
+01/18/2019 13:35:24 PM - INFO - 1.请求任务：
+01/18/2019 13:35:24 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:35:47 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:35:47 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:35:47 PM - INFO - 开始回填
+01/18/2019 13:41:29 PM - INFO - 1.请求任务：
+01/18/2019 13:41:29 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:41:57 PM - INFO - 1.请求任务：
+01/18/2019 13:41:57 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:42:32 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:42:32 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:42:32 PM - INFO - 开始回填
+01/18/2019 13:42:59 PM - INFO - 1.请求任务：
+01/18/2019 13:42:59 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:43:30 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:43:30 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ILC4MF', 'refundNumber': '', 'status': -2}}
+01/18/2019 13:43:30 PM - INFO - 开始回填
+01/18/2019 13:44:07 PM - INFO - 1.请求任务：
+01/18/2019 13:44:07 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:44:30 PM - INFO - 1.请求任务：
+01/18/2019 13:44:30 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:44:55 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 13:45:30 PM - INFO - 1.请求任务：
+01/18/2019 13:45:30 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 13:45:57 PM - INFO - 提交失败错误信息: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="refundCase"]/div/p"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 15:05:14 PM - INFO - 1.请求任务：
+01/18/2019 15:05:14 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 15:05:21 PM - INFO - 1.请求任务：
+01/18/2019 15:05:21 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 15:12:55 PM - INFO - 1.请求任务：
+01/18/2019 15:12:55 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}

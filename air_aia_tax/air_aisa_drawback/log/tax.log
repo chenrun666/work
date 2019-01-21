@@ -1,0 +1,281 @@
+01/18/2019 11:09:30 AM - INFO - 1.请求任务：
+01/18/2019 11:10:13 AM - INFO - 1.请求任务：
+01/18/2019 11:10:13 AM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '225325512@womengyi.cn', 'sex': '男', 'firstname': 'JANG', 'lastname': 'HOYOUNG', 'mobile': '13051888910', 'bookingNumber': 'pektsy', 'flightNumber': 'FD123456', 'carrierCode': 'FD', 'depDate': '2018-08-03 16:25:00'}, 'success': True}
+01/18/2019 11:10:34 AM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09495388', 'bookingNumber': 'pektsy'}}
+01/18/2019 11:10:34 AM - INFO - 开始回填
+01/18/2019 11:13:11 AM - INFO - 1.请求任务：
+01/18/2019 11:13:11 AM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'WU', 'lastname': 'QING', 'mobile': '17710407835', 'bookingNumber': 'UNK5TC', 'flightNumber': 'AK6046', 'carrierCode': 'AK', 'depDate': '2018-08-02 07:15:00'}, 'success': True}
+01/18/2019 11:13:31 AM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09495468', 'bookingNumber': 'UNK5TC'}}
+01/18/2019 11:13:31 AM - INFO - 开始回填
+01/18/2019 11:35:18 AM - INFO - 1.请求任务：
+01/18/2019 11:35:35 AM - INFO - 1.请求任务：
+01/18/2019 11:35:35 AM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'WU', 'lastname': 'QING', 'mobile': '17710407835', 'bookingNumber': 'UNK5TC', 'flightNumber': 'AK6046', 'carrierCode': 'AK', 'depDate': '2018-08-02 07:15:00'}, 'success': True}
+01/18/2019 11:35:56 AM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09496765', 'bookingNumber': 'UNK5TC'}}
+01/18/2019 11:35:56 AM - INFO - 开始回填
+01/18/2019 11:35:56 AM - INFO - 回填返回的结果：{"msg":"error","status":"N","data":[],"success":false}
+01/18/2019 11:35:57 AM - INFO - 1.请求任务：
+01/18/2019 11:35:57 AM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'WU', 'lastname': 'QING', 'mobile': '17710407835', 'bookingNumber': 'UNK5TC', 'flightNumber': 'AK6046', 'carrierCode': 'AK', 'depDate': '2018-08-02 07:15:00'}, 'success': True}
+01/18/2019 12:03:35 PM - INFO - 1.请求任务：
+01/18/2019 12:03:35 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'NONG', 'lastname': 'MEIZHEN', 'mobile': '17710407835', 'bookingNumber': 'YS57MD', 'flightNumber': 'AK6123', 'carrierCode': 'AK', 'depDate': '2018-08-02 06:15:00'}, 'success': True}
+01/18/2019 12:03:56 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09498668', 'bookingNumber': 'YS57MD'}}
+01/18/2019 12:03:56 PM - INFO - 开始回填
+01/18/2019 12:03:56 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:03:56 PM - INFO - 1.请求任务：
+01/18/2019 12:03:56 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '男', 'firstname': 'ZHANG', 'lastname': 'YAN\xa0', 'mobile': '17710407835', 'bookingNumber': 'XJMC4L', 'flightNumber': 'AK5131', 'carrierCode': 'AK', 'depDate': '2018-08-02 22:05:00'}, 'success': True}
+01/18/2019 12:04:17 PM - INFO - 提交失败错误信息: Message: unknown error: Element <button class="slds-button slds-button_neutral slds-m-top--medium submit" type="button" data-aura-rendered-by="535:2;a">...</button> is not clickable at point (173, 673). Other element would receive the click: <html dir="ltr" lang="zh">...</html>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 12:04:17 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'XJMC4L', 'refundNumber': '', 'status': -2}}
+01/18/2019 12:04:17 PM - INFO - 开始回填
+01/18/2019 12:04:17 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:04:17 PM - INFO - 1.请求任务：
+01/18/2019 12:04:17 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'WANG', 'lastname': 'SONGPING', 'mobile': '17710407835', 'bookingNumber': 'QZULRE', 'flightNumber': 'AK6354', 'carrierCode': 'AK', 'depDate': '2018-08-02 13:35:00'}, 'success': True}
+01/18/2019 12:04:39 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09498724', 'bookingNumber': 'QZULRE'}}
+01/18/2019 12:04:39 PM - INFO - 开始回填
+01/18/2019 12:04:39 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:04:39 PM - INFO - 1.请求任务：
+01/18/2019 12:04:40 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'ZHAO', 'lastname': 'SHUHUA', 'mobile': '17710407835', 'bookingNumber': 'AQ7C5A', 'flightNumber': 'AK6125', 'carrierCode': 'AK', 'depDate': '2018-08-02 14:05:00'}, 'success': True}
+01/18/2019 12:05:40 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09498806', 'bookingNumber': 'AQ7C5A'}}
+01/18/2019 12:05:40 PM - INFO - 开始回填
+01/18/2019 12:05:40 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:05:40 PM - INFO - 1.请求任务：
+01/18/2019 12:05:41 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 12:07:31 PM - INFO - 1.请求任务：
+01/18/2019 12:07:32 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'ZHANG', 'lastname': 'RUIDIE', 'mobile': '17710407835', 'bookingNumber': 'ZPBGPM', 'flightNumber': 'AK6139', 'carrierCode': 'AK', 'depDate': '2018-08-03 16:25:00'}, 'success': True}
+01/18/2019 12:07:54 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09498970', 'bookingNumber': 'ZPBGPM'}}
+01/18/2019 12:07:54 PM - INFO - 开始回填
+01/18/2019 12:07:55 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:07:56 PM - INFO - 1.请求任务：
+01/18/2019 12:07:56 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'YOU', 'lastname': 'YI', 'mobile': '17710407835', 'bookingNumber': 'LLFR5S', 'flightNumber': 'AK385', 'carrierCode': 'AK', 'depDate': '2018-08-03 14:50:00'}, 'success': True}
+01/18/2019 12:08:17 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09498997', 'bookingNumber': 'LLFR5S'}}
+01/18/2019 12:08:17 PM - INFO - 开始回填
+01/18/2019 12:08:17 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:08:17 PM - INFO - 1.请求任务：
+01/18/2019 12:08:17 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '男', 'firstname': 'LAW', 'lastname': 'BOONPIEN\xa0', 'mobile': '17710407835', 'bookingNumber': 'ZTCQ3N', 'flightNumber': 'AK6138', 'carrierCode': 'AK', 'depDate': '2018-08-03 17:55:00'}, 'success': True}
+01/18/2019 12:08:35 PM - INFO - 提交失败错误信息: Message: unknown error: Element <button class="slds-button slds-button_neutral slds-m-top--medium submit" type="button" data-aura-rendered-by="535:2;a">...</button> is not clickable at point (173, 673). Other element would receive the click: <html dir="ltr" lang="zh">...</html>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+01/18/2019 12:08:35 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'bookingNumber': 'ZTCQ3N', 'refundNumber': '', 'status': -2}}
+01/18/2019 12:08:35 PM - INFO - 开始回填
+01/18/2019 12:08:35 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:35 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:35 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:35 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:35 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:35 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:35 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:36 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:36 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:37 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:37 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:38 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:38 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:39 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:39 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:41 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:41 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:42 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:42 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:43 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:43 PM - INFO - 1.请求任务：
+01/18/2019 12:08:44 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:44 PM - INFO - 1.请求任务：
+01/18/2019 12:08:44 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:44 PM - INFO - 1.请求任务：
+01/18/2019 12:08:44 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:44 PM - INFO - 1.请求任务：
+01/18/2019 12:08:45 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:45 PM - INFO - 1.请求任务：
+01/18/2019 12:08:45 PM - INFO - 没有取到订单信息
+01/18/2019 12:08:45 PM - INFO - 1.请求任务：
+01/18/2019 12:16:10 PM - INFO - 1.请求任务：
+01/18/2019 12:16:10 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '男', 'firstname': 'ZHANG', 'lastname': 'YAN', 'mobile': '17710407835', 'bookingNumber': 'XJMC4L', 'flightNumber': 'AK5131', 'carrierCode': 'AK', 'depDate': '2018-08-02 22:05:00'}, 'success': True}
+01/18/2019 12:16:33 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09499463', 'bookingNumber': 'XJMC4L'}}
+01/18/2019 12:16:33 PM - INFO - 开始回填
+01/18/2019 12:16:33 PM - INFO - 回填返回的结果：{"msg":"error","status":"N","data":[],"success":false}
+01/18/2019 12:38:34 PM - INFO - 1.请求任务：
+01/18/2019 12:38:34 PM - INFO - 获取到任务：{'msg': 'success', 'status': 'Y', 'data': {'email': '3001550558@qq.com', 'sex': '女', 'firstname': 'HUANG', 'lastname': 'JIALI', 'mobile': '17710407835', 'bookingNumber': 'ILC4MF', 'flightNumber': 'AK6265', 'carrierCode': 'AK', 'depDate': '2018-08-03 21:50:00'}, 'success': True}
+01/18/2019 12:38:58 PM - INFO - 回填信息：{'header': {'carrier': 'FD', 'accountType': '4'}, 'params': {'purpose': '3', 'status': '1', 'refundNumber': '09500179', 'bookingNumber': 'ILC4MF'}}
+01/18/2019 12:38:58 PM - INFO - 开始回填
+01/18/2019 12:38:59 PM - INFO - 回填返回的结果：{"msg":"success","status":"Y","data":[],"success":true}

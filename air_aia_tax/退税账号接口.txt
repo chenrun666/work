@@ -1,0 +1,38 @@
+
+http://192.168.2.113:9555/getSubmitTask?traceID=?
+
+//提交任务回填
+acceptSubmitResult
+{
+    "email":"",
+    "status""     -3退税提交成功  -4退税提交失败
+}
+
+
+
+
+//提交任务
+
+http://192.168.2.113:9555/getSubmitTask?traceID=?
+{
+}
+
+
+
+resp：
+{
+  "msg": "success",
+  "status": "Y",
+  "data": {
+    "email": "225325512@womengyi.cn",
+    "sex": "男",
+    "firstname": "JANG",
+    "lastname": "HOYOUNG",
+    "mobile": "13051888910",
+    "bookingNumber": "pektsy",
+    "flightNumber": "FD123456",
+    "carrierCode": "FD",
+    "depDate": "2019-01-01 12:12:12"
+  },
+  "success": true
+}

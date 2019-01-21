@@ -1,0 +1,15 @@
+{
+  "option1":"Refund",
+  "option2":"Airport Tax",
+  "option3":"Flight Status",
+  "option4":"Credit Card",
+  "option5":"Enquiry/Request",
+  "option6":"General Q&A",
+  "task_url":"http://47.92.4.45:9555/balanceScan/send/?traceID=",
+  "task_url_test":"http://192.168.1.174:9555/balanceScan/send/traceID=",
+  "fill_url":"http://47.92.4.45:9555/balanceScan/accept?traceID=",
+  "fill_url_test":"http://192.168.1.174:9555/balanceScan/accept?traceID=",
+  "ip":"",
+  "title":"机场退税",
+  "bak":"机场税退至亚航会员账户，账户："
+}
