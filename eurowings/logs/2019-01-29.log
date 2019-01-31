@@ -1,0 +1,1149 @@
+[32m[2019-01-29 08:52:57,295] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 08:52:58,535] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 08:53:05,974] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 08:53:14,182] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 08:53:15,449] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 08:53:25,057] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 08:53:49,514] [log.py:97] [log:__console] [ERROR]- 获取航班信息出现错误, 错误信息是：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:06:59,794] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:07:00,871] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:07:11,182] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:07:19,418] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:07:20,729] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:07:31,341] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 09:43:36,903] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:43:37,990] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:43:45,356] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:43:53,600] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:43:54,892] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:44:05,695] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:44:10,799] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./a/div/div[3]/div[1]/div[1]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:44:56,443] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:44:57,524] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:45:04,897] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:45:13,149] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:45:14,435] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:45:25,337] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:45:46,227] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"./a/div/div[3]/div[1]/div[1]/text()"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:49:43,961] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:49:45,040] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:49:52,394] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:50:00,627] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:50:01,906] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:50:12,369] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:50:21,684] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:53:22,941] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:53:24,035] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:53:31,387] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:53:39,625] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:53:40,877] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:55:17,377] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:55:33,556] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:56:02,790] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:56:03,868] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:56:11,271] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:56:19,536] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:56:20,788] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:56:30,440] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:56:43,878] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 09:57:15,262] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 09:57:16,346] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 09:57:23,701] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 09:57:31,954] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 09:57:33,214] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 09:57:42,855] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 09:57:53,175] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 10:52:06,713] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 10:52:07,793] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 10:52:15,145] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 10:52:23,344] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 10:52:24,594] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 10:52:33,943] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 10:53:13,930] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 10:53:49,253] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 10:53:50,334] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 10:53:57,800] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 10:54:06,048] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 10:54:07,304] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 10:54:16,945] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 10:54:24,925] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 10:59:16,207] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 10:59:17,290] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 10:59:24,722] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 10:59:32,973] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 10:59:34,222] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 10:59:44,696] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:00:12,385] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: 
+[0m
+[32m[2019-01-29 11:00:50,209] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:00:51,308] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:00:58,677] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:01:06,936] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:01:08,206] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:01:17,979] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:01:46,001] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: 
+[0m
+[32m[2019-01-29 11:02:32,640] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:02:33,721] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:02:41,713] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:02:50,532] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:02:51,786] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:03:03,014] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:03:29,037] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/text()"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 11:03:55,272] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:03:56,358] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:04:04,344] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:04:13,144] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:04:14,408] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:04:24,299] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:05:14,749] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:05:15,827] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:05:23,778] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:05:32,596] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:05:33,856] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:05:43,568] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:06:27,205] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/text()"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 11:08:08,598] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:08:09,684] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:08:17,637] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:08:26,484] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:08:27,723] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:08:37,130] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:11:00,640] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 11:11:19,681] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:11:20,774] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:11:28,783] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:11:37,607] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:11:38,863] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:11:48,832] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:19:15,761] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:19:16,852] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:19:24,807] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:19:33,647] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:19:34,899] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:19:46,494] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:19:51,565] [log.py:91] [log:__console] [INFO]- 出发地和目的地错误，购买失败[0m
+[32m[2019-01-29 11:20:20,380] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:20:21,462] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:20:29,416] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:20:38,223] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:20:39,496] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:20:49,479] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:22:18,136] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:22:19,213] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:22:27,205] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:22:36,030] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:22:37,288] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:22:50,359] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:23:08,214] [log.py:91] [log:__console] [INFO]- 出发地和目的地错误，购买失败[0m
+[32m[2019-01-29 11:24:27,067] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:24:28,201] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:24:36,164] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:24:45,022] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:24:46,306] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:24:57,531] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 11:25:47,365] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：Message: invalid selector: The result of the xpath expression "./a/div/div[3]/div[1]/div[1]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 11:26:29,113] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:26:30,189] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:26:38,161] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:26:47,034] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:26:48,285] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:26:57,941] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:31:32,437] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:31:33,522] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:31:41,496] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:31:50,331] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:31:51,567] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:32:01,839] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:33:01,470] [log.py:91] [log:__console] [INFO]- 没有查询到对应的航班号，请重新输入查询[0m
+[32m[2019-01-29 11:33:46,430] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:33:47,548] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:33:55,531] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:34:04,345] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:34:05,590] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:34:15,319] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:43:16,739] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:43:17,822] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:43:25,771] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:43:34,646] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:43:35,911] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:43:46,267] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:44:29,428] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 11:45:01,115] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 11:45:30,893] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[1]/a[3]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 11:45:38,412] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_1"]/div[1]/label[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 11:45:57,045] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:45:58,130] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:46:06,095] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:46:14,924] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:46:16,188] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:46:26,530] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:46:56,291] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:46:57,370] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:47:05,324] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:47:14,125] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:47:15,410] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:47:25,118] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 11:47:59,581] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 11:48:00,658] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 11:48:09,524] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 11:48:19,241] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 11:48:20,484] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 11:48:41,298] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:25:54,846] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:25:55,926] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:26:04,874] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:26:14,634] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:26:15,880] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:26:37,587] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:27:18,406] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 12:29:42,577] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 12:30:27,067] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:30:28,146] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:30:37,036] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:30:46,826] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:30:48,108] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:31:35,043] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:31:36,126] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:31:45,016] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:31:54,759] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:31:56,045] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:32:06,595] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:43:12,785] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 12:43:37,643] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 12:51:05,468] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:51:06,550] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:51:15,460] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:51:25,188] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:51:26,478] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:51:36,375] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:51:44,357] [log.py:91] [log:__console] [INFO]- 出发地和目的地错误，购买失败[0m
+[32m[2019-01-29 12:52:08,050] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:52:09,133] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:52:18,006] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:52:27,723] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:52:28,994] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:52:39,056] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:53:08,797] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 12:53:34,649] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 12:55:06,546] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:55:07,640] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:55:16,563] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:55:26,309] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:55:27,608] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:55:49,879] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:55:50,952] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:55:59,846] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:56:09,567] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:56:10,848] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:56:20,460] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:56:47,346] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 12:57:16,213] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 12:58:40,682] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 12:58:41,757] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 12:58:50,641] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 12:59:00,408] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 12:59:01,675] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 12:59:12,111] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 12:59:46,108] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:00:51,483] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_0"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 13:01:50,375] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:01:51,462] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:02:00,350] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:02:10,076] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:02:11,365] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:02:20,961] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:02:39,387] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:02:40,469] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:02:49,356] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:02:59,089] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:03:00,365] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:03:10,646] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:03:43,068] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:04:34,771] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:07:40,226] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:07:41,309] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:07:50,188] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:07:59,922] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:08:01,164] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:08:10,673] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:08:33,974] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:08:35,053] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:08:43,942] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:08:53,665] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:08:54,977] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:09:05,466] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:09:21,802] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:09:22,881] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:09:31,758] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:09:41,512] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:09:42,771] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:09:52,458] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:10:25,630] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:11:00,381] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:13:28,274] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:13:29,371] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:13:38,495] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 13:13:58,061] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:13:59,141] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:14:08,050] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:14:17,771] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:14:19,051] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:14:29,019] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:15:01,351] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:15:42,561] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:20:53,413] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:20:54,498] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:21:03,375] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 13:21:19,510] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:21:20,590] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:21:29,470] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:21:39,253] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:21:40,509] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:21:56,584] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:21:57,659] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:22:07,985] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:22:17,738] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:22:18,981] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:22:31,843] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:23:00,685] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:23:40,102] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_1"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:28:27,241] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:28:28,333] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:28:37,224] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:28:46,962] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:28:48,237] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:28:58,603] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:29:15,080] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:29:16,161] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:29:25,032] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:29:34,766] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:29:36,008] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:29:46,647] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:30:19,752] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:31:19,856] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/div[3]/button[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:33:11,829] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:33:12,908] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:33:21,765] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:33:31,509] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:33:32,746] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:33:41,888] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:34:03,219] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:34:04,295] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:34:13,182] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:34:22,940] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:34:24,214] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:34:34,502] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:35:02,903] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 13:35:37,685] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[1]/div[3]/button[1]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 13:35:41,136] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[1]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 13:37:00,051] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:37:01,138] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:37:10,019] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:37:19,757] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:37:21,014] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:37:31,136] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:38:05,090] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 13:43:59,217] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:44:00,329] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:44:09,183] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 13:44:24,588] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:44:25,675] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:44:34,589] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:44:44,339] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:44:45,649] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:44:56,179] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:45:45,707] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 13:48:20,543] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:48:21,620] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:48:30,508] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:48:40,267] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:48:41,519] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:48:55,925] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:49:31,046] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 13:51:29,700] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:51:30,776] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:51:39,710] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:51:49,479] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:51:50,744] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:52:06,389] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:52:33,823] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 13:56:03,214] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:56:04,303] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:56:13,197] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 13:56:28,913] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:56:29,995] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:56:38,900] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 13:56:57,890] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:56:58,976] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:57:07,959] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:57:17,760] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:57:19,135] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:57:28,913] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:58:03,240] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:58:04,313] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:58:11,882] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:58:20,247] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:58:21,496] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:58:31,214] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:58:47,558] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:58:48,641] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:58:56,369] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 13:59:04,733] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 13:59:06,016] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 13:59:15,553] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 13:59:48,125] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 13:59:49,203] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 13:59:55,814] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:00:03,248] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:00:04,512] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:00:14,558] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:00:44,714] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:04:03,898] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:04:04,976] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:04:11,675] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:04:19,117] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:04:20,344] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:04:30,973] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:05:11,369] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:10:10,292] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:10:11,375] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:10:17,949] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:10:25,384] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:10:26,685] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:11:22,721] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:11:23,806] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:11:30,411] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:11:37,858] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:11:39,120] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:11:56,232] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:11:57,319] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:12:04,040] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:12:11,468] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:12:12,734] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:12:22,881] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:13:04,266] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:14:42,228] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:14:43,317] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:14:49,895] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:14:57,289] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:14:58,541] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:15:09,731] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:15:35,707] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:17:27,776] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:17:28,882] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:17:35,505] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:17:42,962] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:17:44,283] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:17:54,981] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:18:33,033] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:24:55,124] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:24:56,208] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:25:02,751] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:25:10,196] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:25:11,463] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:25:22,053] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:25:51,823] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 14:28:08,476] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:28:09,558] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:28:16,138] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:28:23,563] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:28:24,809] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:28:34,414] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:28:56,578] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:28:57,660] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:29:04,261] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:29:11,651] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:29:12,888] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:29:22,430] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:29:38,359] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:29:39,448] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:29:46,064] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:29:53,546] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:29:54,827] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:30:04,588] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:30:26,074] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:30:27,152] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:30:33,710] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:30:41,141] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:30:42,402] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:30:53,028] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:31:30,906] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 14:33:09,407] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ServicesOverviewViewControlGroup_ButtonSubmit"]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 14:35:00,652] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:35:01,733] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:35:08,323] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 14:35:27,124] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:35:28,209] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:35:34,779] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:35:42,212] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:35:43,469] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:35:53,264] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:36:10,093] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 14:37:28,176] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 14:37:48,424] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 14:38:08,635] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 14:41:22,532] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:41:23,626] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:41:30,246] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:41:37,696] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:41:38,985] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:41:49,179] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:43:34,459] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 14:43:35,542] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 14:43:42,173] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 14:43:49,681] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 14:43:50,893] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 14:44:01,001] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 14:44:27,212] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 14:45:37,073] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 14:45:57,343] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 14:46:17,615] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:02:38,086] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:02:39,168] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:02:45,746] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:02:53,170] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:02:54,449] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:08:38,255] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:08:39,342] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:08:45,961] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:08:53,418] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:08:54,692] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:09:05,226] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:09:19,572] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:10:29,831] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:10:50,145] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:11:10,398] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:16:49,376] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:16:50,454] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:16:57,035] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:17:04,479] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:17:05,729] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:17:20,120] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:17:34,191] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:18:24,502] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_-3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:18:45,766] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_-2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:18:46,317] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_2"]/div[1]/label[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 15:20:52,516] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:20:53,594] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:21:00,281] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:21:07,723] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:21:08,982] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:21:20,044] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:21:33,255] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 15:24:10,268] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:24:11,349] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:24:17,924] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:24:25,359] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:24:26,605] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:24:42,268] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:24:55,812] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:28:00,821] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_-3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:28:16,782] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:28:17,860] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:28:24,639] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:28:32,113] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:28:33,387] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:28:47,275] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:28:48,352] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:28:54,913] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:29:02,350] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:29:03,595] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:29:16,083] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:29:29,916] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:30:16,299] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_0_BAG_-3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:30:37,595] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_0_BAG_-2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:30:38,170] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_0_BAG_2"]/div[1]/label[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 15:33:42,316] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:33:43,394] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:33:49,995] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:33:57,428] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:33:58,679] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:34:12,423] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:34:28,624] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:35:24,138] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_0_BAG_5"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:43:07,461] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:43:08,547] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:43:15,116] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:43:22,572] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:43:23,910] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:43:34,786] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:43:48,133] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:44:43,837] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_0_BAG_5"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:46:11,167] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:46:12,261] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:46:18,892] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:46:26,331] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:46:27,635] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:46:55,217] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:46:56,291] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:47:02,861] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:47:10,288] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:47:11,571] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:47:24,530] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:47:37,903] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:48:42,308] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_5"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:49:03,543] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_2_BAG_6"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 15:49:30,046] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:49:31,138] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:49:37,739] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 15:49:56,196] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:49:57,276] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:50:03,898] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[32m[2019-01-29 15:50:33,204] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:50:34,274] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:50:40,909] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[31m[2019-01-29 15:51:09,629] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[4]/ul/li[5]时，点击click时出错，错误信息：Message: 
+[0m
+[36m[2019-01-29 15:51:09,632] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[31m[2019-01-29 15:51:09,693] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="departuredate"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,725] [log.py:97] [log:__console] [ERROR]- 选择出发日期时发生错误，错误信息：Message: no such element: Unable to locate element: {"method":"link text","selector":"1"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,764] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="travellers"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,804] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/div[2]/div/div[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,856] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/div[3]/div/div[1]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,893] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="incInfant"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,930] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="setTravellerData"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 15:51:09,972] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="SearchViewControlGroupFlightSelection_SearchViewFlightSearchControl_ButtonSubmit"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 15:51:09,973] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 15:51:35,248] [log.py:97] [log:__console] [ERROR]- 获取页面文本值出错，错误信息为Message: 
+[0m
+[31m[2019-01-29 15:51:55,517] [log.py:97] [log:__console] [ERROR]- 获取页面文本值出错，错误信息为Message: 
+[0m
+[31m[2019-01-29 15:51:55,518] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：expected string or bytes-like object[0m
+[32m[2019-01-29 15:53:15,944] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 15:53:17,028] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 15:53:23,607] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 15:53:31,039] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 15:53:32,306] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 15:53:49,655] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 15:54:04,886] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 15:55:28,218] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:55:48,427] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 15:56:08,692] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:20:58,658] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:20:59,745] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[32m[2019-01-29 16:22:41,765] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:22:42,856] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[32m[2019-01-29 16:28:52,969] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:28:54,063] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[31m[2019-01-29 16:29:28,325] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[3]/div[4]/ul[2]/li[@data-code=ATH]时，点击click时出错，错误信息：Message: 
+[0m
+[36m[2019-01-29 16:29:28,328] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[31m[2019-01-29 16:29:30,377] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="destination"]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 16:29:30,415] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[3]/div/input时，填写TXL时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 16:30:02,978] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:30:04,058] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:30:37,821] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:30:45,253] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:30:46,516] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:31:07,297] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[31m[2019-01-29 16:31:12,417] [log.py:97] [log:__console] [ERROR]- 选择航班出现错误，错误信息：'NoneType' object has no attribute 'group'[0m
+[32m[2019-01-29 16:31:45,571] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:31:46,668] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:31:58,491] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:32:05,958] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:32:07,220] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:32:22,685] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:32:23,772] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:32:30,397] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:32:37,854] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:32:39,118] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:32:51,216] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:33:04,450] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:34:21,209] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[3]/input时，填写SHUAIDONG时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:34:43,938] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/div[3]/input时，填写HUIXIAN时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:35:02,216] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:35:03,296] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:35:09,870] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:35:17,323] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:35:18,568] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:35:31,412] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:35:44,693] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:37:02,581] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[3]/input时，填写RUN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:37:23,841] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:37:44,124] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:38:20,849] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:38:21,929] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:38:28,580] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:38:36,063] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:38:37,358] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:38:52,578] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:39:07,474] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:40:23,432] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[3]/input时，填写RUN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:40:46,494] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/div[3]/input时，填写SHUAIDONG时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:41:07,514] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:41:27,975] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:41:48,481] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:42:09,716] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/div[3]/input时，填写HUIXIAN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:42:31,212] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:42:51,255] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:43:11,765] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:43:33,480] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/div[3]/input时，填写RICHARDRONGYI时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:43:56,510] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_AddressLine1"]时，填写beijingshi fengtaiqu dahongmen tianshiyuan时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:44:16,514] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_PostalCode"]时，填写100000时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:44:42,009] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:44:43,143] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:44:49,838] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:44:57,315] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:44:58,595] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:45:08,003] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:45:21,615] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:46:36,066] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[4]/input时，填写RUN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:46:59,191] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/div[4]/input时，填写SHUAIDONG时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:47:23,011] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:47:24,086] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:47:30,757] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:47:38,206] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:47:39,496] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:47:52,839] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:48:07,648] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:49:24,901] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[3]/input时，填写RUN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:49:48,035] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/div[3]/input时，填写SHUAIDONG时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:50:09,541] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:50:30,008] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 16:50:57,594] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:50:58,676] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:51:05,246] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:51:12,746] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:51:13,997] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:51:27,855] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:51:41,549] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 16:53:01,952] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:53:22,221] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:53:42,500] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:54:05,127] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:54:25,372] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:54:45,634] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 16:54:56,876] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/ul/li[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 16:59:07,886] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 16:59:08,969] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 16:59:15,593] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 16:59:23,065] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 16:59:24,345] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 16:59:34,249] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 16:59:48,195] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 17:00:32,303] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_5"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:01:26,702] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[4]/div[4]/input时，填写RUN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:01:49,428] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/div[4]/input时，填写SHUAIDONG时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:02:10,696] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:02:30,930] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:02:51,230] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:03:12,512] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/div[4]/input时，填写HUIXIAN时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:42:59,007] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:43:10,608] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:10,614] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:10,622] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/div[1]/label[2]时，点击click时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:10,631] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/div[2]/input时，填写HU时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:10,665] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/div[4]/input时，填写RICHARDRONGYI时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,676] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,682] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,687] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[7]/fieldset/div/div[4]/input时，填写2018时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,693] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="PassengerViewControlGroupPassengerInput_ButtonSubmit"]时，点击click时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,700] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_AddressLine1"]时，填写beijingshi fengtaiqu dahongmen tianshiyuan时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,707] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_PostalCode"]时，填写100000时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,712] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_City"]时，填写beijing时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,718] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_Email"]时，填写12345678909@163.com时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:11,725] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[1]/div[2]/div[7]时，点击click时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:12,737] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/ul/li[2]时，点击click时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 17:43:12,743] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ButtonSubmit"]时，点击click时出错，错误信息：Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 17:45:28,087] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 17:45:29,165] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 17:45:35,800] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 17:45:43,278] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 17:45:44,520] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 17:45:55,575] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 17:46:09,430] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 17:46:54,737] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_5"]/div[2]/a[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:47:56,106] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:48:16,358] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:48:36,620] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:48:59,248] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:49:19,525] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:49:39,816] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 17:49:48,809] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/ul/li[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 18:17:41,814] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:17:42,889] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:17:49,636] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:17:57,088] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:17:58,395] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:18:12,915] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:18:26,522] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[32m[2019-01-29 18:19:21,911] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:19:23,022] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:19:29,601] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:19:37,082] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:19:38,388] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:19:50,320] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:20:04,269] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 18:22:25,783] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:22:45,969] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 18:23:17,159] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:23:18,230] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:23:24,803] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:23:32,265] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:23:33,531] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:23:45,212] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:23:59,585] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 18:24:22,449] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:24:26,130] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:24:46,590] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_3_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:25:23,539] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:25:43,802] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:26:04,078] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:26:26,633] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:26:46,898] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:27:07,123] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:27:26,539] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/ul/li[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[32m[2019-01-29 18:29:30,506] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:29:31,584] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:29:38,228] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:29:45,662] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:29:46,917] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:29:59,665] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:30:13,879] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 18:30:36,273] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:30:39,984] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:31:00,514] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_3_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:31:37,201] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:31:57,403] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:32:17,658] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:32:40,391] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:33:00,804] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 18:33:26,495] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:33:27,572] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:33:34,253] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:33:41,744] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:33:43,039] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:33:57,507] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:34:11,449] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 18:34:32,728] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:34:36,444] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:34:57,035] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_3_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:35:35,577] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:35:55,843] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[32m[2019-01-29 18:37:01,603] [log.py:91] [log:__console] [INFO]- 初始化webdriver对象[0m
+[32m[2019-01-29 18:37:02,677] [log.py:91] [log:__console] [INFO]- 输入航班信息[0m
+[36m[2019-01-29 18:37:09,342] [log.py:93] [log:__console] [DEBUG]- 输入出发地[0m
+[36m[2019-01-29 18:37:16,817] [log.py:93] [log:__console] [DEBUG]- 输入目的地[0m
+[32m[2019-01-29 18:37:18,098] [log.py:91] [log:__console] [INFO]- 选择出发日期[0m
+[32m[2019-01-29 18:37:28,335] [log.py:91] [log:__console] [INFO]- 查询信息填写完毕[0m
+[32m[2019-01-29 18:37:43,018] [log.py:91] [log:__console] [INFO]- 确认航班信息[0m
+[31m[2019-01-29 18:38:06,607] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:38:10,311] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_1_BAG_3"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:38:30,844] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="BAGGROUP_FLIGHT_0_PAX_3_BAG_2"]/div[2]/a[2]时，点击click时出错，错误信息：Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+[0m
+[31m[2019-01-29 18:39:10,016] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:39:30,225] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:39:50,386] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[5]/fieldset/div/div[4]/input时，填写1980时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:40:12,968] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[2]/input时，填写10时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 18:40:33,130] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[3]/input时，填写11时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 20:40:37,007] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[6]/fieldset/div/div[4]/input时，填写1999时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 22:10:46,010] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_AddressLine1"]时，填写beijingshi fengtaiqu dahongmen tianshiyuan时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 22:11:06,359] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_PostalCode"]时，填写100000时出错，错误信息：Message: 
+[0m
+[31m[2019-01-29 23:00:05,008] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_City"]时，填写beijing时出错，错误信息：Message: 
+[0m
+[31m[2019-01-30 00:03:50,819] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ContactViewContactInputControl_Email"]时，填写12345678909@163.com时出错，错误信息：Message: 
+[0m
+[31m[2019-01-30 01:51:55,306] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[1]/div[2]/div[7]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-30 03:40:00,327] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="siteContent"]/div[2]/ul/li[2]时，点击click时出错，错误信息：Message: 
+[0m
+[31m[2019-01-30 05:08:58,446] [log.py:97] [log:__console] [ERROR]- 定位//*[@id="ContactViewControlGroupContactInput_ButtonSubmit"]时，点击click时出错，错误信息：Message: 
+[0m

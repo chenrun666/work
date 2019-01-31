@@ -1,0 +1,146 @@
+[36m[2019-01-27 16:40:11,342] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:40:25,328] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 16:40:25,330] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 16:40:25,330] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 16:40:25,371] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 16:40:25,377] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:40:25,377] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 16:40:25,381] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 16:41:42,568] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:41:45,577] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[31m[2019-01-27 16:41:45,578] [log.py:97] [log:__console] [ERROR]- 获取总价格失败，错误信息为'NoneType' object has no attribute 'group'[0m
+[32m[2019-01-27 16:41:45,579] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[31m[2019-01-27 16:41:45,582] [log.py:97] [log:__console] [ERROR]- 获取航班详细信息失败，错误信息是：list index out of range[0m
+[32m[2019-01-27 16:41:45,583] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:41:45,584] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 16:41:45,585] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 16:42:30,586] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[36m[2019-01-27 16:46:32,530] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:46:36,963] [log.py:91] [log:__console] [INFO]- 找不到订单[0m
+[31m[2019-01-27 16:46:36,964] [log.py:97] [log:__console] [ERROR]- 获取总价格失败，错误信息为'NoneType' object has no attribute 'group'[0m
+[32m[2019-01-27 16:46:36,966] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[31m[2019-01-27 16:46:36,969] [log.py:97] [log:__console] [ERROR]- 获取航班详细信息失败，错误信息是：list index out of range[0m
+[32m[2019-01-27 16:46:36,970] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:46:36,971] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 16:47:40,535] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:47:54,270] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 16:47:54,271] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 16:47:54,271] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 16:47:54,302] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 16:47:54,308] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:47:54,308] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 16:47:54,311] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 16:49:39,444] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:49:50,174] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 16:49:50,175] [log.py:91] [log:__console] [INFO]- 获取到总价格：13690[0m
+[32m[2019-01-27 16:49:50,176] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 16:49:50,201] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 16:49:50,205] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:49:50,205] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 16:49:50,207] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 16:57:42,776] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 16:57:55,189] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 16:57:55,190] [log.py:91] [log:__console] [INFO]- 获取到总价格：23280[0m
+[32m[2019-01-27 16:57:55,191] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 16:57:55,228] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 16:57:55,235] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 16:57:55,235] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 16:57:55,238] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[36m[2019-01-27 17:05:30,736] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:05:42,790] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:05:42,791] [log.py:91] [log:__console] [INFO]- 获取到总价格：23280[0m
+[32m[2019-01-27 17:05:42,793] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:05:42,832] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[36m[2019-01-27 17:12:04,514] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:12:16,114] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:12:16,115] [log.py:91] [log:__console] [INFO]- 获取到总价格：11040[0m
+[32m[2019-01-27 17:12:16,116] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:12:16,146] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:12:16,151] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:12:16,152] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:12:16,155] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:12:16,155] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479317, 'taskType': 1, 'taskSource': 1, 'taskId': 61861, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_8fbb5b9ba36f40c08063c0a1a4c09af5', 'orderNo': '390100650', 'depCity': 'OKA', 'arrCity': 'ICN', 'fromDate': '2019-03-15', 'retDate': None, 'flightNumber': 'MM905', 'tripType': 1, 'name': 'JANG/JAESEO', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': 'ZNWCNR', 'price': 11040, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'OKA', 'arr': 'ICN', 'depDate': '201903151305', 'arrDate': '201903151530', 'carrier': 'MM', 'flightNumber': 'MM905'}], 'retSegments': None, 'passengers': [{'name': 'JANG/JAESEO', 'gender': 'M', 'birthday': '19761102', 'nationality': 'KR'}, {'name': 'PARK/HYEJUNG', 'gender': 'F', 'birthday': '19780924', 'nationality': 'KR'}], 'baggages': [], 'updateTime': 1548381817000, 'createTime': 1548381817000}[0m
+[36m[2019-01-27 17:14:18,247] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:14:31,335] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:14:31,339] [log.py:91] [log:__console] [INFO]- 获取到总价格：11040[0m
+[32m[2019-01-27 17:14:31,341] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:14:31,375] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:14:31,379] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:14:31,380] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:14:31,383] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:14:31,383] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479317, 'taskType': 1, 'taskSource': 1, 'taskId': 61861, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_8fbb5b9ba36f40c08063c0a1a4c09af5', 'orderNo': '390100650', 'depCity': 'OKA', 'arrCity': 'ICN', 'fromDate': '2019-03-15', 'retDate': None, 'flightNumber': 'MM905', 'tripType': 1, 'name': 'JANG/JAESEO', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': 'ZNWCNR', 'price': 11040, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'OKA', 'arr': 'ICN', 'depDate': '201903151305', 'arrDate': '201903151530', 'carrier': 'MM', 'flightNumber': 'MM905'}], 'retSegments': None, 'passengers': [{'name': 'PARK/HYEJUNG', 'gender': 'F', 'birthday': '19780924', 'nationality': 'KR'}, {'name': 'JANG/JAESEO', 'gender': 'M', 'birthday': '19761102', 'nationality': 'KR'}], 'baggages': [], 'updateTime': 1548381817000, 'createTime': 1548381817000}[0m
+[36m[2019-01-27 17:16:17,598] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[36m[2019-01-27 17:17:45,177] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:17:58,751] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:17:58,752] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 17:17:58,753] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:17:58,789] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:17:58,795] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:17:58,795] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:17:58,798] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:17:58,799] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479424, 'taskType': 1, 'taskSource': 1, 'taskId': 61938, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_d3192bea97e040c9adae937d6d4242e2', 'orderNo': '390143208', 'depCity': 'HND', 'arrCity': 'TPE', 'fromDate': '2019-03-01', 'retDate': None, 'flightNumber': 'MM859', 'tripType': 1, 'name': 'SHIMIZU/HIROKI', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': 'XVTKQC', 'price': 37380, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'HND', 'arr': 'TPE', 'depDate': '201903010550', 'arrDate': '201903010855', 'carrier': 'MM', 'flightNumber': 'MM859'}], 'retSegments': None, 'passengers': [{'name': 'SEKINE/WATARU', 'gender': 'M', 'birthday': '19910624', 'nationality': 'JP'}, {'name': 'SHIMIZU/HIROKI', 'gender': 'M', 'birthday': '19910928', 'nationality': 'JP'}], 'baggages': [], 'updateTime': 1548387170000, 'createTime': 1548387170000}[0m
+[36m[2019-01-27 17:24:08,601] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:24:21,840] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:24:21,841] [log.py:91] [log:__console] [INFO]- 获取到总价格：34380[0m
+[32m[2019-01-27 17:24:21,842] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:24:21,889] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:24:21,896] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:24:21,896] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:24:21,900] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:24:21,900] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479428, 'taskType': 1, 'taskSource': 1, 'taskId': 61941, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_26d4767b273444a19e4111c91f2c9052', 'orderNo': '390144735', 'depCity': 'KIX', 'arrCity': 'PVG', 'fromDate': '2019-04-22', 'retDate': None, 'flightNumber': 'MM079', 'tripType': 1, 'name': 'CAO/HAOYUE', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': '8DUWZ9', 'price': 34380, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'KIX', 'arr': 'PVG', 'depDate': '201904222210', 'arrDate': '201904230005', 'carrier': 'MM', 'flightNumber': 'MM079'}], 'retSegments': None, 'passengers': [{'name': 'ZHOU/CAOYING', 'gender': 'F', 'birthday': '19900909', 'nationality': 'CN'}, {'name': 'XU/CAILING', 'gender': 'F', 'birthday': '19900906', 'nationality': 'CN'}, {'name': 'CAO/HAOYUE', 'gender': 'F', 'birthday': '19890818', 'nationality': 'CN'}], 'baggages': [], 'updateTime': 1548387345000, 'createTime': 1548387345000}[0m
+[36m[2019-01-27 17:26:48,615] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[36m[2019-01-27 17:32:08,442] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[31m[2019-01-27 17:32:08,444] [log.py:97] [log:__console] [ERROR]- 获取航班信息出错，错误信息为：-> request() got an unexpected keyword argument 'max_tries'[0m
+[31m[2019-01-27 17:32:08,444] [log.py:97] [log:__console] [ERROR]- 获取总价格失败，错误信息为'AirMM' object has no attribute 'content'[0m
+[36m[2019-01-27 17:32:22,190] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[31m[2019-01-27 17:32:22,191] [log.py:97] [log:__console] [ERROR]- 获取航班信息出错，错误信息为：-> request() got an unexpected keyword argument 'max_tries'[0m
+[31m[2019-01-27 17:32:22,193] [log.py:97] [log:__console] [ERROR]- 获取总价格失败，错误信息为'AirMM' object has no attribute 'content'[0m
+[36m[2019-01-27 17:35:22,884] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:35:35,743] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:35:35,744] [log.py:91] [log:__console] [INFO]- 获取到总价格：11460[0m
+[32m[2019-01-27 17:35:35,745] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:35:35,778] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:35:35,784] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:35:35,784] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:35:35,788] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:35:35,788] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479432, 'taskType': 1, 'taskSource': 1, 'taskId': 61942, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_3ce324637dbd40cbbce721d9bebbb4ed', 'orderNo': '390145906', 'depCity': 'KIX', 'arrCity': 'PVG', 'fromDate': '2019-04-22', 'retDate': None, 'flightNumber': 'MM079', 'tripType': 1, 'name': 'ZHOU/JIE', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': 'HNSJGH', 'price': 11460, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'KIX', 'arr': 'PVG', 'depDate': '201904222210', 'arrDate': '201904230005', 'carrier': 'MM', 'flightNumber': 'MM079'}], 'retSegments': None, 'passengers': [{'name': 'ZHOU/JIE', 'gender': 'F', 'birthday': '19920804', 'nationality': 'CN'}], 'baggages': [], 'updateTime': 1548387517000, 'createTime': 1548387517000}[0m
+[36m[2019-01-27 17:37:09,198] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:37:22,816] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:37:22,817] [log.py:91] [log:__console] [INFO]- 获取到总价格：282600[0m
+[32m[2019-01-27 17:37:22,818] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:37:22,859] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:37:22,865] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:37:22,865] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:37:22,868] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:37:22,869] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479443, 'taskType': 1, 'taskSource': 0, 'taskId': 956203, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_beabc47cc30948909244034e16ffc0b9', 'orderNo': '390149062', 'depCity': 'ICN', 'arrCity': 'OKA', 'fromDate': '2019-03-23', 'retDate': None, 'flightNumber': 'MM906', 'tripType': 1, 'name': 'PARK/JINOK', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': '', 'loginPassword': '', 'pnr': 'BUNC33', 'price': 282600, 'baggagePrice': 0, 'cur': 'KRW', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'ICN', 'arr': 'OKA', 'depDate': '201903231640', 'arrDate': '201903231900', 'carrier': 'MM', 'flightNumber': 'MM906'}], 'retSegments': None, 'passengers': [{'name': 'PARK/JUSUONG', 'gender': 'M', 'birthday': '19820917', 'nationality': 'KR'}, {'name': 'PARK/JINOK', 'gender': 'F', 'birthday': '19790915', 'nationality': 'KR'}, {'name': 'PARK/JIWOO', 'gender': 'F', 'birthday': '20150225', 'nationality': 'KR'}], 'baggages': [], 'updateTime': 1548388092000, 'createTime': 1548388092000}[0m
+[36m[2019-01-27 17:40:47,349] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:41:04,124] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:41:04,124] [log.py:91] [log:__console] [INFO]- 获取到总价格：28830[0m
+[32m[2019-01-27 17:41:04,126] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:41:04,150] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:41:04,154] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:41:04,154] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:41:04,157] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:41:04,158] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479487, 'taskType': 1, 'taskSource': 1, 'taskId': 61988, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_96c928d34e464ca89b64a47279cc7a60', 'orderNo': '390171829', 'depCity': 'SDJ', 'arrCity': 'TPE', 'fromDate': '2019-04-06', 'retDate': None, 'flightNumber': 'MM775', 'tripType': 1, 'name': 'ZHENG/GUANGHAO', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': '4ADGQT', 'price': 28830, 'baggagePrice': 3200, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'SDJ', 'arr': 'TPE', 'depDate': '201904061705', 'arrDate': '201904062000', 'carrier': 'MM', 'flightNumber': 'MM775'}], 'retSegments': None, 'passengers': [{'name': 'ZHENG/GUANGHAO', 'gender': 'M', 'birthday': '19910504', 'nationality': 'TW'}], 'baggages': [{'name': 'ZHENG/GUANGHAO', 'baggageWeight': 20, 'dep': 'SDJ', 'arr': 'TPE'}], 'updateTime': 1548390710000, 'createTime': 1548390710000}[0m
+[36m[2019-01-27 17:43:14,708] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[31m[2019-01-27 17:43:28,506] [log.py:97] [log:__console] [ERROR]- 获取航班信息出错，错误信息为：-> HTTPSConnectionPool(host='ezy.flypeach.com', port=443): Read timed out. (read timeout=10)[0m
+[31m[2019-01-27 17:43:28,506] [log.py:97] [log:__console] [ERROR]- 获取总价格失败，错误信息为'AirMM' object has no attribute 'content'[0m
+[36m[2019-01-27 17:44:43,401] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:44:55,950] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:44:55,951] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 17:44:55,952] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:44:55,982] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-27 17:44:55,987] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-27 17:44:55,988] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-27 17:44:55,991] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-27 17:44:55,991] [log.py:91] [log:__console] [INFO]- 回填数据：{'taskStatus': 'Y', 'id': 1479584, 'taskType': 1, 'taskSource': 1, 'taskId': 62071, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_a1bf338418674f5fa27f92395eea26da', 'orderNo': '390213472', 'depCity': 'HND', 'arrCity': 'PVG', 'fromDate': '2019-04-10', 'retDate': None, 'flightNumber': 'MM899', 'tripType': 1, 'name': 'LIN/XIUQIN', 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'pnr': '4ND3QD', 'price': 37380, 'baggagePrice': 6800, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'HND', 'arr': 'PVG', 'depDate': '201904100245', 'arrDate': '201904100500', 'carrier': 'MM', 'flightNumber': 'MM899'}], 'retSegments': None, 'passengers': [{'name': 'LIN/XIUQIN', 'gender': 'F', 'birthday': '19760918', 'nationality': 'CN'}, {'name': 'GU/GUOXIANG', 'gender': 'M', 'birthday': '19760802', 'nationality': 'CN'}], 'baggages': [{'name': 'LIN/XIUQIN', 'baggageWeight': 20, 'dep': 'HND', 'arr': 'PVG'}], 'updateTime': 1548396129000, 'createTime': 1548396129000}[0m
+[36m[2019-01-27 17:48:49,781] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:49:03,472] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:49:03,473] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 17:49:03,474] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:49:03,508] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[36m[2019-01-27 17:50:17,499] [log.py:93] [log:__console] [DEBUG]- 测试数据[0m
+[32m[2019-01-27 17:50:30,966] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-27 17:50:30,968] [log.py:91] [log:__console] [INFO]- 获取到总价格：37380[0m
+[32m[2019-01-27 17:50:30,969] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-27 17:50:31,005] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m

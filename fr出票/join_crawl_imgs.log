@@ -1,0 +1,320 @@
+2019-01-22 09:10:20,738 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 09:10:20,738 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 09:27:54,285 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 09:27:54,285 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 10:58:46,346 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 改版后点击continue错误,Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 10:58:46,346 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 改版后点击continue错误,Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:04:44,286 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:04:44,286 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:25:56,812 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击登录按钮时候出现错误,Message: unknown error: Element <a ui-sref="login" href="#">...</a> is not clickable at point (1272, 33). Other element would receive the click: <div class="ngdialog-overlay"></div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:25:56,812 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击登录按钮时候出现错误,Message: unknown error: Element <a ui-sref="login" href="#">...</a> is not clickable at point (1272, 33). Other element would receive the click: <div class="ngdialog-overlay"></div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:38:26,953 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:38:26,953 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 11:42:42,855 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 11:42:42,855 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:43:32,271 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:43:32,271 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:48:19,643 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:48:19,643 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:52:01,165 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:52:01,165 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:55:57,216 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:55:57,216 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 12:56:19,908 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 12:56:19,908 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 13:21:15,751 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:21:15,751 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:26:35,980 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击nothanks的时候出现错误,Message: 
+
+2019-01-22 13:26:35,980 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 点击nothanks的时候出现错误,Message: 
+
+2019-01-22 13:26:55,297 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:26:55,297 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:35:54,424 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:35:54,424 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:45:38,089 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:45:38,089 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 13:55:05,717 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 13:55:05,717 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 14:00:55,309 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 14:00:55,309 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 14:11:11,003 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 14:11:11,003 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-22 14:30:34,332 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-22 14:30:34,332 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-22 14:36:09,243 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 14:36:09,243 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 16:07:36,433 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 查询航班对应的按钮的时候出现错误,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 16:07:36,433 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 查询航班对应的按钮的时候出现错误,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 16:50:07,572 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 查询航班对应的按钮的时候出现错误,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 16:50:07,572 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 查询航班对应的按钮的时候出现错误,Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 16:59:35,849 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 16:59:35,849 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: 
+
+2019-01-22 17:15:34,715 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 17:15:34,715 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 17:21:32,680 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 17:21:32,680 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择乘客性别时候出现错误,Message: Cannot locate option with value: string:MRS
+
+2019-01-22 17:28:02,527 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-22 17:28:02,527 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-22 18:04:18,169 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-22 18:04:18,169 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 08:57:33,054 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 08:57:33,054 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:00:07,394 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 09:00:07,394 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 09:02:04,022 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 09:02:04,022 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 09:22:00,419 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择座位后点击review按钮出错，可重跑,Message: unknown error: Element <button type="button" id="" class="core-btn-primary dialog-overlay-footer__ok-button" ng-class="{'loading': $ctrl.isLoading}" ng-disabled="$ctrl.isDisabled" ng-click="!$ctrl.isLoading &amp;&amp; $ctrl.onClick()" data-ref="" disabled="disabled">...</button> is not clickable at point (1345, 680). Other element would receive the click: <button-spinner button-classes="core-btn-primary dialog-overlay-footer__ok-button" on-click="$ctrl.onOk()" data-ref="dialog-overlay-footer-ok-btn" is-loading="$ctrl.okLoading" is-disabled="$ctrl.okDisabled" button-text="trips.seats.seatmap_review-seats">...</button-spinner>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:22:00,419 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择座位后点击review按钮出错，可重跑,Message: unknown error: Element <button type="button" id="" class="core-btn-primary dialog-overlay-footer__ok-button" ng-class="{'loading': $ctrl.isLoading}" ng-disabled="$ctrl.isDisabled" ng-click="!$ctrl.isLoading &amp;&amp; $ctrl.onClick()" data-ref="" disabled="disabled">...</button> is not clickable at point (1345, 680). Other element would receive the click: <button-spinner button-classes="core-btn-primary dialog-overlay-footer__ok-button" on-click="$ctrl.onOk()" data-ref="dialog-overlay-footer-ok-btn" is-loading="$ctrl.okLoading" is-disabled="$ctrl.okDisabled" button-text="trips.seats.seatmap_review-seats">...</button-spinner>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:25:12,969 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:25:12,969 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:25:32,844 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_flight_data - 没有获取到token,'x-session-token'
+2019-01-23 09:25:32,844 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_flight_data - 没有获取到token,'x-session-token'
+2019-01-23 09:28:43,736 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:28:43,736 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: element not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:31:38,264 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:31:38,264 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:32:33,112 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:32:33,112 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:34:02,800 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:34:02,800 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 在加载首页时候出现异常,Message: timeout
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:43:46,769 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击登录或者输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:43:46,769 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击登录或者输入账号密码的时候出现错误,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:51:18,318 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 09:51:18,318 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 10:13:09,165 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:13:09,165 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:14:54,435 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:14:54,435 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:18:16,858 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:18:16,858 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:20:02,258 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:20:02,258 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:25:52,042 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-23 10:25:52,042 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-23 10:31:03,591 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 10:31:03,591 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 价格页面时候continue出现错误,Message: unknown error: Element <button id="continue" ng-if="!vm.getOperator() &amp;&amp; !vm.inChangeFlight" type="button" class="core-btn-primary core-btn-medium flight-selector__listing-footer-button-next" ng-disabled="search.isReturn &amp;&amp; !vm.journeys[1].model.fareType || !vm.journeys[0].model.fareType" translate="trips.summary.buttons.btn_continue" translate-default="" ng-click="vm.postFlight()" disabled="disabled">...</button> is not clickable at point (1105, 630). Other element would receive the click: <div class="flight-selector__listing-footer">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 10:34:42,312 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:34:42,312 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:34:59,911 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: unknown error: Element <div class="bag-icon-description" ng-class="{'bag-icon-description--disabled': !$ctrl.canBeModified &amp;&amp; !$ctrl.canBeUpgraded}" ng-click="$ctrl.isBagsSizeSelectorExpandable &amp;&amp; $ctrl.onBagsIconClick()">...</div> is not clickable at point (1372, 624). Other element would receive the click: <svg tabindex="-1" focusable="false" role="img">...</svg>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 10:34:59,911 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击行李按钮时候出现异常,Message: unknown error: Element <div class="bag-icon-description" ng-class="{'bag-icon-description--disabled': !$ctrl.canBeModified &amp;&amp; !$ctrl.canBeUpgraded}" ng-click="$ctrl.isBagsSizeSelectorExpandable &amp;&amp; $ctrl.onBagsIconClick()">...</div> is not clickable at point (1372, 624). Other element would receive the click: <svg tabindex="-1" focusable="false" role="img">...</svg>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 10:39:38,810 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-23 10:39:38,810 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 改版后点击小黑包错误,Message: 
+
+2019-01-23 10:42:59,973 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:42:59,973 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:44:45,279 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:44:45,279 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 出票时候，票总价大于传回来的价格
+2019-01-23 10:51:02,530 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:51:02,530 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:57:28,857 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 10:57:28,857 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 11:03:45,497 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 11:03:45,497 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 11:06:38,166 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 获取票号时候时候出现错误,Message: 
+
+2019-01-23 11:06:38,166 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 获取票号时候时候出现错误,Message: 
+
+2019-01-23 11:16:39,898 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 11:16:39,898 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 11:18:51,106 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 11:18:51,106 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 12:55:14,023 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择座位后点击review按钮出错，可重跑,Message: unknown error: Element <button type="button" id="" class="core-btn-primary dialog-overlay-footer__ok-button" ng-class="{'loading': $ctrl.isLoading}" ng-disabled="$ctrl.isDisabled" ng-click="!$ctrl.isLoading &amp;&amp; $ctrl.onClick()" data-ref="" disabled="disabled">...</button> is not clickable at point (1345, 680). Other element would receive the click: <button-spinner button-classes="core-btn-primary dialog-overlay-footer__ok-button" on-click="$ctrl.onOk()" data-ref="dialog-overlay-footer-ok-btn" is-loading="$ctrl.okLoading" is-disabled="$ctrl.okDisabled" button-text="trips.seats.seatmap_review-seats">...</button-spinner>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 12:55:14,023 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 选择座位后点击review按钮出错，可重跑,Message: unknown error: Element <button type="button" id="" class="core-btn-primary dialog-overlay-footer__ok-button" ng-class="{'loading': $ctrl.isLoading}" ng-disabled="$ctrl.isDisabled" ng-click="!$ctrl.isLoading &amp;&amp; $ctrl.onClick()" data-ref="" disabled="disabled">...</button> is not clickable at point (1345, 680). Other element would receive the click: <button-spinner button-classes="core-btn-primary dialog-overlay-footer__ok-button" on-click="$ctrl.onOk()" data-ref="dialog-overlay-footer-ok-btn" is-loading="$ctrl.okLoading" is-disabled="$ctrl.okDisabled" button-text="trips.seats.seatmap_review-seats">...</button-spinner>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 12:59:16,542 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 12:59:16,542 - ./log/join_crawl_imgs.log - ERROR - yanjia_ - get_index - 点击nothanks的时候出现错误,Message: 
+
+2019-01-23 13:03:52,405 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 13:03:52,405 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 13:04:37,090 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 13:04:37,090 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 网络延迟导致没查到当前出票航班,'FR5834' is not in list
+2019-01-23 13:10:55,070 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 13:10:55,070 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 13:23:58,432 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 13:23:58,432 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - As your payment was not authorised we could not complete your reservation. Please ensure that the information was correct or use a new payment to try again
+2019-01-23 15:54:14,053 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+
+2019-01-23 15:54:14,053 - ./log/join_crawl_imgs.log - ERROR - fr_ticket - get_indexs - 在加载首页时候出现异常,Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No target with given id"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5),platform=Mac OS X 10.14.1 x86_64)
+

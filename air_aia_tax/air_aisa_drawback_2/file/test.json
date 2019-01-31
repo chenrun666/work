@@ -1,0 +1,16 @@
+{
+	"msg": "success",
+	"status": "Y",
+	"data": {
+		"email": "3001550558@qq.com",
+		"sex": "女",
+		"firstname": "HUANG",
+		"lastname": "JIALI",
+		"mobile": "17710407835",
+		"bookingNumber": "ILC4MF",
+		"flightNumber": "AK6265",
+		"carrierCode": "AK",
+		"depDate": "2018-08-03 21:50:00"
+	},
+	"success": true
+}

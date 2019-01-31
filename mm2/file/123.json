@@ -1,0 +1,67 @@
+{
+  'taskStatus': 'Y',
+  'id': 1479584,
+  'taskType': 1,
+  'taskSource': 1,
+  'taskId': 62071,
+  'status': 1,
+  'pathStatus': 0,
+  'pnrStatus': 'confirm',
+  'msg': '成功',
+  'source': 2,
+  'carrier': 'MM',
+  'orderCode': 'CTR_a1bf338418674f5fa27f92395eea26da',
+  'orderNo': '390213472',
+  'depCity': 'HND',
+  'arrCity': 'PVG',
+  'fromDate': '2019-04-10',
+  'retDate': None,
+  'flightNumber': 'MM899',
+  'tripType': 1,
+  'name': 'LIN/XIUQIN',
+  'email': 'letaohangkong@163.com',
+  'accountType': '0',
+  'loginAccount': None,
+  'loginPassword': None,
+  'pnr': '4ND3QD',
+  'price': 37380,
+  'baggagePrice': 0,
+  'cur': 'JPY',
+  'path': None,
+  'fromSegments': [
+    {
+      'segmentindex': 1,
+      'dep': '(HND)',
+      'arr': '(PVG)',
+      'depDate': '201904100245',
+      'arrDate': '201904100500',
+      'carrier': 'MM',
+      'flightNumber': 'MM899'
+    }
+  ],
+  'retSegments': None,
+  'passengers': [
+    {
+      'name': 'GU/GUOXIANG',
+      'gender': 'M',
+      'birthday': '19760802',
+      'nationality': 'CN'
+    },
+    {
+      'name': 'LIN/XIUQIN',
+      'gender': 'F',
+      'birthday': '19760918',
+      'nationality': 'CN'
+    }
+  ],
+  'baggages': [
+    {
+      'name': 'LIN/XIUQIN',
+      'baggageWeight': 20,
+      'dep': 'HND',
+      'arr': 'PVG'
+    }
+  ],
+  'updateTime': 1548396129000,
+  'createTime': 1548396129000
+}

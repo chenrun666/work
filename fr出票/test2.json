@@ -1,0 +1,300 @@
+{
+  "termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+  "currency": "USD",
+  "currPrecision": 2,
+  "trips": [
+    {
+      "origin": "EDI",
+      "originName": "Edinburgh",
+      "destination": "BGY",
+      "destinationName": "Milan (Bergamo)",
+      "dates": [
+        {
+          "dateOut": "2019-02-26T00:00:00.000",
+          "flights": [
+            {
+              "faresLeft": 3,
+              "flightKey": "FR~5834~ ~~EDI~02/26/2019 06:25~BGY~02/26/2019 09:50~~",
+              "infantsLeft": 17,
+              "regularFare": {
+                "fareKey": "0~N~ ~FR~NZ1699FB~FCCS~~0~10~~X",
+                "fareClass": "N",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 23.11,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 23.11,
+                    "mandatorySeatFee": {
+                      "vat": 0.00,
+                      "amt": 7.50,
+                      "total": 7.50,
+                      "totalWithoutDiscount": 0.0,
+                      "code": "SETA",
+                      "qty": 1
+                    },
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  },
+                  {
+                    "type": "CHD",
+                    "amount": 23.11,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 23.11,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "EDI",
+                  "destination": "BGY",
+                  "flightNumber": "FR 5834",
+                  "time": [
+                    "2019-02-26T06:25:00.000",
+                    "2019-02-26T09:50:00.000"
+                  ],
+                  "timeUTC": [
+                    "2019-02-26T06:25:00.000Z",
+                    "2019-02-26T08:50:00.000Z"
+                  ],
+                  "duration": "02:25"
+                }
+              ],
+              "flightNumber": "FR 5834",
+              "time": [
+                "2019-02-26T06:25:00.000",
+                "2019-02-26T09:50:00.000"
+              ],
+              "timeUTC": [
+                "2019-02-26T06:25:00.000Z",
+                "2019-02-26T08:50:00.000Z"
+              ],
+              "duration": "02:25"
+            }
+          ]
+        },
+        {
+          "dateOut": "2019-02-27T00:00:00.000",
+          "flights": [
+            {
+              "faresLeft": -1,
+              "flightKey": "FR~5834~ ~~EDI~02/27/2019 06:40~BGY~02/27/2019 10:05~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~T~ ~FR~TZLDIS2~ZZZK~~0~8~~X",
+                "fareClass": "T",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 27.24,
+                    "count": 1,
+                    "hasDiscount": true,
+                    "publishedFare": 34.06,
+                    "mandatorySeatFee": {
+                      "vat": 0.00,
+                      "amt": 7.50,
+                      "total": 7.50,
+                      "totalWithoutDiscount": 0.0,
+                      "code": "SETA",
+                      "qty": 1
+                    },
+                    "discountInPercent": 20,
+                    "hasPromoDiscount": false
+                  },
+                  {
+                    "type": "CHD",
+                    "amount": 27.24,
+                    "count": 1,
+                    "hasDiscount": true,
+                    "publishedFare": 34.06,
+                    "discountInPercent": 20,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "EDI",
+                  "destination": "BGY",
+                  "flightNumber": "FR 5834",
+                  "time": [
+                    "2019-02-27T06:40:00.000",
+                    "2019-02-27T10:05:00.000"
+                  ],
+                  "timeUTC": [
+                    "2019-02-27T06:40:00.000Z",
+                    "2019-02-27T09:05:00.000Z"
+                  ],
+                  "duration": "02:25"
+                }
+              ],
+              "flightNumber": "FR 5834",
+              "time": [
+                "2019-02-27T06:40:00.000",
+                "2019-02-27T10:05:00.000"
+              ],
+              "timeUTC": [
+                "2019-02-27T06:40:00.000Z",
+                "2019-02-27T09:05:00.000Z"
+              ],
+              "duration": "02:25"
+            }
+          ]
+        },
+        {
+          "dateOut": "2019-02-28T00:00:00.000",
+          "flights": []
+        },
+        {
+          "dateOut": "2019-03-01T00:00:00.000",
+          "flights": [
+            {
+              "faresLeft": -1,
+              "flightKey": "FR~5834~ ~~EDI~03/01/2019 17:05~BGY~03/01/2019 20:30~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~C~ ~FR~CZ7LOW~BND7~~0~2~~X",
+                "fareClass": "C",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 65.50,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 65.50,
+                    "mandatorySeatFee": {
+                      "vat": 0.00,
+                      "amt": 7.50,
+                      "total": 7.50,
+                      "totalWithoutDiscount": 0.0,
+                      "code": "SETA",
+                      "qty": 1
+                    },
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  },
+                  {
+                    "type": "CHD",
+                    "amount": 65.50,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 65.50,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "EDI",
+                  "destination": "BGY",
+                  "flightNumber": "FR 5834",
+                  "time": [
+                    "2019-03-01T17:05:00.000",
+                    "2019-03-01T20:30:00.000"
+                  ],
+                  "timeUTC": [
+                    "2019-03-01T17:05:00.000Z",
+                    "2019-03-01T19:30:00.000Z"
+                  ],
+                  "duration": "02:25"
+                }
+              ],
+              "flightNumber": "FR 5834",
+              "time": [
+                "2019-03-01T17:05:00.000",
+                "2019-03-01T20:30:00.000"
+              ],
+              "timeUTC": [
+                "2019-03-01T17:05:00.000Z",
+                "2019-03-01T19:30:00.000Z"
+              ],
+              "duration": "02:25"
+            }
+          ]
+        },
+        {
+          "dateOut": "2019-03-02T00:00:00.000",
+          "flights": [
+            {
+              "faresLeft": -1,
+              "flightKey": "FR~5834~ ~~EDI~03/02/2019 06:20~BGY~03/02/2019 09:45~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~A~ ~FR~AZ7LOW~BND7~~0~2~~X",
+                "fareClass": "A",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 45.85,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 45.85,
+                    "mandatorySeatFee": {
+                      "vat": 0.00,
+                      "amt": 7.50,
+                      "total": 7.50,
+                      "totalWithoutDiscount": 0.0,
+                      "code": "SETA",
+                      "qty": 1
+                    },
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  },
+                  {
+                    "type": "CHD",
+                    "amount": 45.85,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 45.85,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "EDI",
+                  "destination": "BGY",
+                  "flightNumber": "FR 5834",
+                  "time": [
+                    "2019-03-02T06:20:00.000",
+                    "2019-03-02T09:45:00.000"
+                  ],
+                  "timeUTC": [
+                    "2019-03-02T06:20:00.000Z",
+                    "2019-03-02T08:45:00.000Z"
+                  ],
+                  "duration": "02:25"
+                }
+              ],
+              "flightNumber": "FR 5834",
+              "time": [
+                "2019-03-02T06:20:00.000",
+                "2019-03-02T09:45:00.000"
+              ],
+              "timeUTC": [
+                "2019-03-02T06:20:00.000Z",
+                "2019-03-02T08:45:00.000Z"
+              ],
+              "duration": "02:25"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serverTimeUTC": "2019-01-22T06:57:25.788Z"
+}

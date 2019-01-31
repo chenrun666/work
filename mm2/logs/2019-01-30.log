@@ -1,0 +1,8 @@
+[32m[2019-01-30 09:11:24,754] [log.py:91] [log:__console] [INFO]- 获取任务对应信息[0m
+[32m[2019-01-30 09:11:24,757] [log.py:91] [log:__console] [INFO]- 获取到总价格：45890[0m
+[32m[2019-01-30 09:11:24,757] [log.py:91] [log:__console] [INFO]- 获取到支付货币的币种[0m
+[32m[2019-01-30 09:11:24,793] [log.py:91] [log:__console] [INFO]- 记录航班起飞落地时间[0m
+[32m[2019-01-30 09:11:24,797] [log.py:91] [log:__console] [INFO]- 获取乘客基本信息[0m
+[32m[2019-01-30 09:11:24,797] [log.py:91] [log:__console] [INFO]- 修改pnr状态为confirm[0m
+[32m[2019-01-30 09:11:24,800] [log.py:91] [log:__console] [INFO]- 获取乘客的行李信息[0m
+[32m[2019-01-30 09:11:24,800] [log.py:91] [log:__console] [INFO]- 回填数据：{'name': 'SHIROTA/YOSHIKO', 'pnr': 'X92V2D', 'taskStatus': 'Y', 'id': 1475140, 'taskType': 1, 'taskSource': 1, 'taskId': 61286, 'status': 1, 'pathStatus': 0, 'pnrStatus': 'confirm', 'msg': '成功', 'source': 2, 'carrier': 'MM', 'orderCode': 'CTR_ebf14bd694024ea881fc75fdcdaa66ff', 'orderNo': '389936026', 'depCity': 'HND', 'arrCity': 'PVG', 'fromDate': '2019-02-21', 'retDate': None, 'flightNumber': 'MM017', 'tripType': 1, 'email': 'letaohangkong@163.com', 'accountType': '0', 'loginAccount': None, 'loginPassword': None, 'price': 45890, 'baggagePrice': 0, 'cur': 'JPY', 'path': None, 'fromSegments': [{'segmentindex': 1, 'dep': 'HND', 'arr': 'PVG', 'depDate': '201901310210', 'arrDate': '201901310500', 'carrier': 'MM', 'flightNumber': 'MM899'}], 'retSegments': None, 'passengers': [{'name': 'SHIROTA/YOSHIKO', 'gender': 'F', 'birthday': '19580726', 'nationality': 'JP'}], 'baggages': [], 'updateTime': 1548330704000, 'createTime': 1548330704000}[0m
